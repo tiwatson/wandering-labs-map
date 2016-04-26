@@ -1,0 +1,2 @@
+class MapPlace < ApplicationRecord
+end
